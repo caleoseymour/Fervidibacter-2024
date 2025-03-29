@@ -1,5 +1,5 @@
-# fervidibacter-multiomics
-Multi-omic analysis of Fervidibacter sacchari cultures. Just a quick and lightweight overview to handle the proteomic and transcriptomic (also genomic) data for the F. sacchari paper. Also include a section for handling the metaproteome.
+# Fervidibacter-2024
+Analysis of Fervidibacter sacchari cultures. Just a quick and lightweight overview to handle the proteomic and transcriptomic (also genomic) data for the F. sacchari paper. Also include a section for handling the metaproteome.
 
 ## Description of files
 Filename | Description
